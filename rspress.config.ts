@@ -4,7 +4,7 @@ import { defineConfig } from 'rspress/config';
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
   base: '/achobeta-portal/',
-  // globalStyles: path.join(__dirname, 'src/styles/index.css'),
+  globalStyles: path.join(__dirname, 'src/styles/index.css'),
   title: 'AchoBeta',
   icon: '/achobeta.jpg',
   logoText: 'AchoBeta',
