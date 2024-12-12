@@ -3,7 +3,7 @@ pageType: home
 
 hero:
   name: AchoBeta
-  text: 用冰冷的技术，赋予生活的无限温柔 
+  text: 用冰冷的技术，赋予生活无限的温柔 
   tagline: <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2000&pause=4000&color=3C3C3CA8&center=true&vCenter=true&width=435&lines=%E8%81%9A%E6%98%AF%E4%B8%80%E5%9B%A2%E7%81%AB%EF%BC%8C%E6%95%A3%E6%98%AF%E6%BB%A1%E5%A4%A9%E6%98%9F!" alt="Typing SVG" />
   actions:
     - theme: brand
