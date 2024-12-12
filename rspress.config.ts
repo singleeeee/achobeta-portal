@@ -4,6 +4,7 @@ import { defineConfig } from 'rspress/config';
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
   base: '/achobeta-portal/',
+  // globalStyles: path.join(__dirname, 'src/styles/index.css'),
   title: 'AchoBeta',
   icon: '/achobeta.jpg',
   logoText: 'AchoBeta',
@@ -27,6 +28,8 @@ export default defineConfig({
     },
   ],
   themeConfig: {
+    enableContentAnimation: true,
+    lastUpdated: true,
     locales: [
       {
         label: 'English',
@@ -37,7 +40,11 @@ export default defineConfig({
         label: '简体中文',
         lang: 'zh',
         outlineTitle: '大纲',
-      },
+        prevPageText: '上一页',
+        nextPageText: '下一页',
+        searchPlaceholderText: '搜索文档',
+        lastUpdatedText: '上次更新时间'
+      }
     ],
     socialLinks: [
       {

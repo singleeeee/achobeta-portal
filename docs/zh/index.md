@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 了解我们
-      link: /guide/
+      link: /share/
     - theme: alt
       text: GitHub
       link: https://github.com/web-infra-dev/rspress

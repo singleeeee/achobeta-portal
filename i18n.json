@@ -11,8 +11,12 @@
     "en": "share",
     "zh": "分享"
   },
-  "Try": {
-    "en": "Try",
-    "zh": "尝试"
+  "nextPage": {
+      "en": "Next Page",
+      "zh": "下一页"
+  },
+  "prevPage": {
+      "en": "Prev Page",
+      "zh": "上一页"
   }
 }
