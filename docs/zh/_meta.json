@@ -1,0 +1,7 @@
+[
+  {
+    "text": "share",
+    "link": "/share/index",
+    "activeMatch": "^/share/"
+  }
+]
